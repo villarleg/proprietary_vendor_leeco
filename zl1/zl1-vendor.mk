@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/zl1/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/leeco/zl1/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
     vendor/leeco/zl1/proprietary/bin/gx_fpd:system/bin/gx_fpd \
+    vendor/leeco/zl1/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
     vendor/leeco/zl1/proprietary/bin/ifaa_daemon:system/bin/ifaa_daemon \
     vendor/leeco/zl1/proprietary/bin/ks:system/bin/ks \
     vendor/leeco/zl1/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
